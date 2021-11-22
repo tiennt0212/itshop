@@ -1,6 +1,9 @@
+import { StraightLayout } from "../../components/Layout/Layout";
 const Home = () => {
     return (
-        <div>Hello World!</div>
+        <StraightLayout>
+            
+        </StraightLayout>
     )
 };
 
